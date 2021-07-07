@@ -1,0 +1,107 @@
+body{
+    font-family: 'Montserrat', sans-serif;
+    margin: 0;
+}
+.header{
+    color: darkcyan;
+}
+h2{
+    font-size: 50px;
+}
+.fliexible-container{
+    display: flex;
+    
+    
+}
+.half-width{
+    width: 50%;
+    padding-left: 5%;
+}
+.half-width img{
+    width: 80%;
+    height: 85%;
+    border-radius: 100%;
+    
+    
+}
+small{
+    text-decoration-color: tomato;
+    font-weight: 900;
+    font-size: medium;
+    color: tomato;
+}
+.link-zoom{
+    text-decoration: none;
+    background-image: linear-gradient(green, rgb(34, 236, 8));
+    padding: 10px 40px;
+    
+    border-radius: 5px;
+    font-weight: 700;
+    color:white;
+}
+.top-banner{
+    background-image: url(Group\ 8448.png);
+    /* background-repeat: no-repeat; */
+    background-size: initial;
+    
+    
+}
+.paper{
+    color: rgb(19, 134, 168);
+}
+.know-more{
+    background-image: url(4532764.jpg);
+    background-repeat: no-repeat;
+    margin-bottom: 0;
+}
+.lojja{
+    margin-top: 70px;
+}
+.papra{
+    color: rgb(212, 22, 22);  
+}
+.Nomoniyo{
+    display: flex;
+    align-content: center;
+}
+.raja{
+    text-align: center;
+    box-shadow: 10px 10px 40px gray;
+    width: 40%;
+    margin-left: 6%;
+    margin-right: 6%;
+    border-radius: 10px;
+    
+}
+.raja img{
+    width: 60%;
+    height: 60%;
+    border-radius: 100%;
+
+}
+.reviews{
+    background-image: url(padma.jpg);
+    background-repeat: no-repeat;
+    background-position: left ;
+    margin-bottom: 50px;
+    padding-bottom: 20px;
+    margin-top: 0;
+
+}
+#snake{
+    border-left: 7px solid;
+    border-image: linear-gradient(rgb(48, 14, 201),rgb(179, 21, 158)) ;
+    border-image-slice: 50;
+}
+#mongoose{
+    border-left: 7px solid;
+    border-image: linear-gradient(rgb(13, 131, 2),rgb(104, 180, 17)) ;
+    border-image-slice: 50;
+}
+footer p{
+    text-align: center;
+}
+.lion{
+    margin-top: 0%;
+    padding-top: 20px;
+}
